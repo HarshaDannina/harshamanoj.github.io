@@ -2,31 +2,31 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "electronics",
-				weight: 12.3
+				text: "Text Mining",
+				weight: 10.3
 			}, {
-				text: "nodeJS",
+				text: "Computer Vision",
 				weight: 8
 			}, {
-				text: "IoT",
-				weight: 14
+				text: "Data Science",
+				weight: 12
 			}, {
-				text: "MatLab",
-				weight: 3
+				text: "Visualization",
+				weight: 4
 			}, {
-				text: "programming",
+				text: "KNN",
 				weight: 7
 			}, {
-				text: "python",
-				weight: 10
+				text: "Decision Trees",
+				weight: 8
 			}, {
-				text: "java",
-				weight: 9
+				text: "WebApp Development",
+				weight: 6
 			}, {
-				text: "raspberry",
-				weight: 15
+				text: "Machine Learning",
+				weight: 13
 			}, {
-				text: "arduino",
+				text: "BootStrap",
 				weight: 7
 			}
 		];
